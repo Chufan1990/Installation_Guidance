@@ -37,7 +37,7 @@ sudo apt-get install terminator
 [Sogou Pinying for Linus](https://pinyin.sogou.com/linux/?r=pinyin)
 
 ```bash
-cd path\_of\_sogoupinyin
+cd path_of_sogoupinyin
 sudo dpkg -i *.deb
 sudo apt install -f
 ```
